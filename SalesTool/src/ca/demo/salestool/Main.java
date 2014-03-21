@@ -13,7 +13,7 @@ public class Main {
 	private static void displayGreeting()
 	{
 		System.out.println("First message");
-		System.out.println("Second message");
+		System.out.println("Second message COOOOOL");
 	
 		System.out.println("Test 1");
 	}
