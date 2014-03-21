@@ -14,7 +14,8 @@ public class Main {
 	{
 		System.out.println("First message");
 		System.out.println("Second message");
-		
+	
+		System.out.println("Test 1");
 	}
 	
 	
