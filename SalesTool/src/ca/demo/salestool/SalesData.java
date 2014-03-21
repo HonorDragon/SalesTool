@@ -6,7 +6,9 @@ public class SalesData {
 	
 	public void display()
 	{
-		System.out.println("TODO: Test it");
+		System.out.println(data[0]);
+		System.out.println(data[1]);
+		System.out.println(data[2]);
 		
 	}
 	
